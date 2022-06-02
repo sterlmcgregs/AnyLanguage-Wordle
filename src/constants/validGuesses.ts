@@ -10,7 +10,6 @@ export const VALIDGUESSES = [
   'wiiyaas',
   'miinan',
   'mzise',
-  'mukwa',
   'esban',
   'nimosh',
   'bzhiki',
