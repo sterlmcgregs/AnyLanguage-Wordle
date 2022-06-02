@@ -10,7 +10,6 @@ export const WORDS = [
   'wiiyaas',
   'miinan',
   'mzise',
-  'mukwa',
   'esban',
   'nimosh',
   'bzhiki',
