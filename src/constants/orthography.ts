@@ -9,7 +9,7 @@ export const ORTHOGRAPHY = [
   'e',
   'g',
   'h',
-  ''',
+  "'",
   'i',
   'ii',
   'j',
